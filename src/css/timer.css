@@ -1,0 +1,20 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@800&family=Mulish&display=swap');
+.timer{
+    margin-top: 100px;
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+.field>span{
+    display: block;
+    text-align: center;
+}
+.value{
+    font-family: 'Inter', sans-serif;
+    font-weight: 800;
+    font-size: 30px;
+}
+.label{
+    font-family: 'Mulish', sans-serif;
+}
